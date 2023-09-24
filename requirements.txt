@@ -15,13 +15,13 @@ flask==2.0.1
 sqlalchemy==1.4.23
 
 # data science
-jupyter==1.0.0
-pandas==1.5.0
-numpy==1.23.3
-scikit-learn==1.1.2
-matplotlib==3.6.0
-seaborn==0.12.0
-dask==2022.9.2
+jupyter
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+dask
 
 #MLOps
 # gradio==3.4.1
