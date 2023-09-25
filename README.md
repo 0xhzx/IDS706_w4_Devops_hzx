@@ -1,4 +1,4 @@
-[![CI](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/0xhzx/IDS706-w1_Mini_Project/actions/workflows/cicd.yml)
+[![CI](https://github.com/0xhzx/IDS706_w4_Devops_hzx/actions/workflows/cicd.yml/badge.svg)](https://github.com/0xhzx/IDS706_w4_Devops_hzx/actions/workflows/cicd.yml)
 # Template for Python projects 
 
 ## Week 4 New feature
